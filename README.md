@@ -8,7 +8,6 @@ The project demonstrates the practical application of convolutional neural netwo
 ---
 
 ## Repository Contents
-- `bu_peni.pdf` — Published research article describing the methodology, experimental setup, and performance evaluation.
 - `VGG_DT2_FINE_TUNE_OG.py` — Complete Python implementation for preprocessing, feature extraction, model training, evaluation, and optional fine-tuning using VGG16.
 
 ---
